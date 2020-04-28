@@ -1,0 +1,4 @@
+* ELS2020
+
+This example was used to demonstrate how to load a project from the
+GitHub to [[https://ultralisp.org/][Ultralisp.org]].
